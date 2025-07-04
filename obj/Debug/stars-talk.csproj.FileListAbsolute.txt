@@ -1,0 +1,14 @@
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\bin\Debug\stars-talk.exe.config
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\bin\Debug\stars-talk.exe
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\bin\Debug\stars-talk.pdb
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk.csproj.AssemblyReference.cache
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\MainWindow.baml
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\MainWindow.g.cs
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\App.g.cs
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk_MarkupCompile.cache
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk.g.resources
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars_talk.Properties.Resources.resources
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk.csproj.GenerateResource.cache
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk.csproj.CoreCompileInputs.cache
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk.exe
+D:\Users\1213-7\Documents\МДК05.01\Бобков\stars-talk\obj\Debug\stars-talk.pdb
