@@ -43,8 +43,14 @@ namespace stars_talk
             "Скорпион (23.10-21.11)\nПлутон,Аквамарин,Чувственный",
             "Стрелец(22.11-21.12)\nЮпитер,Бирюза,Оптимистичный"
         };
-            if (DateTime.TryParseExact(dateTextBox.Text, "dd.MM.yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime date))
 
+            if (string.IsNullOrEmpty(dateTextBox.Text))
+            {
+                Result.Text = "Пожалуйста, введите дату.";
+                return;
+            }
+
+            if (DateTime.TryParseExact(dateTextBox.Text, "dd.MM.yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime date))
             {
                 int m = date.Month;
                 int d = date.Day;
